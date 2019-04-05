@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>615</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>fill_h</FUNCTION>
+    <DECORATED>?fill_h@@YAXH@Z</DECORATED>
+    <FUNCLINE>615</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>628</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>sortare</FUNCTION>
+    <DECORATED>?sortare@@YAXH@Z</DECORATED>
+    <FUNCLINE>628</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>639</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>decode_h</FUNCTION>
+    <DECORATED>?decode_h@@YAXH@Z</DECORATED>
+    <FUNCLINE>639</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>652</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>culoare</FUNCTION>
+    <DECORATED>?culoare@@YA_NH@Z</DECORATED>
+    <FUNCLINE>652</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>685</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>chintaroy</FUNCTION>
+    <DECORATED>?chintaroy@@YA_NHH@Z</DECORATED>
+    <FUNCLINE>685</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>709</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>clear_perechi</FUNCTION>
+    <DECORATED>?clear_perechi@@YAXAAHH@Z</DECORATED>
+    <FUNCLINE>709</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>722</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>chinta</FUNCTION>
+    <DECORATED>?chinta@@YA_NHH@Z</DECORATED>
+    <FUNCLINE>722</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>757</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>perechi</FUNCTION>
+    <DECORATED>?perechi@@YAHH@Z</DECORATED>
+    <FUNCLINE>757</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>857</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>royala</FUNCTION>
+    <DECORATED>?royala@@YAHH@Z</DECORATED>
+    <FUNCLINE>857</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>879</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>determine_hand</FUNCTION>
+    <DECORATED>?determine_hand@@YAXH@Z</DECORATED>
+    <FUNCLINE>879</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1096</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'start'.</DESCRIPTION>
+    <FUNCTION>castigator_i</FUNCTION>
+    <DECORATED>?castigator_i@@YAXXZ</DECORATED>
+    <FUNCLINE>1020</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1022</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1023</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1025</LINE>
+        <COLUMN>112</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1047</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1068</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1070</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1071</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1071</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'start' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1074</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==1' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1078</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==2' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1082</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==3' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1086</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==4' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1091</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1091</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1091</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1092</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'k&gt;0&amp;&amp;z&gt;0&amp;&amp;ok==1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1094</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1095</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1096</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'start' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1096</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'finish'.</DESCRIPTION>
+    <FUNCTION>castigator_i</FUNCTION>
+    <DECORATED>?castigator_i@@YAXXZ</DECORATED>
+    <FUNCLINE>1020</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1022</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1023</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1025</LINE>
+        <COLUMN>112</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1047</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1068</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1070</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1071</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1071</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1073</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'finish' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1074</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==1' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1078</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==2' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1082</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==3' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1086</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'h[maxime[n]][8]==4' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1091</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1091</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1091</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1092</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'k&gt;0&amp;&amp;z&gt;0&amp;&amp;ok==1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1094</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1095</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>1096</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'finish' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1236</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>simulari</FUNCTION>
+    <DECORATED>?simulari@@YAMH@Z</DECORATED>
+    <FUNCLINE>1236</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1308</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>fold_bet</FUNCTION>
+    <DECORATED>?fold_bet@@YAXH@Z</DECORATED>
+    <FUNCLINE>1308</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1314</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>call_bet</FUNCTION>
+    <DECORATED>?call_bet@@YAXH@Z</DECORATED>
+    <FUNCLINE>1314</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1343</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>raise_bet</FUNCTION>
+    <DECORATED>?raise_bet@@YAXH@Z</DECORATED>
+    <FUNCLINE>1343</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>1373</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'player' hides previous declaration at line '39' of 'd:\visual studio\poker table and cards\main.cpp'.</DESCRIPTION>
+    <FUNCTION>sim_hand</FUNCTION>
+    <DECORATED>?sim_hand@@YAXH@Z</DECORATED>
+    <FUNCLINE>1373</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\visual studio\poker table and cards\</FILEPATH>
+        <FILENAME>main.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

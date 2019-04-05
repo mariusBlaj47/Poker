@@ -1,0 +1,32 @@
+﻿  main.cpp
+main.cpp(1302): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+main.cpp(1320): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1336): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1369): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1386): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1402): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1426): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1457): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1586): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1591): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1596): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1601): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1606): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1614): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1620): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1626): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1632): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1638): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1744): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1753): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1762): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1771): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(1987): warning C4390: ';': empty controlled statement found; is this the intent?
+main.cpp(2009): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  83 of 469 functions (17.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Poker Table and cards.vcxproj -> D:\Visual Studio\Poker Table and cards\Release\Poker Table and cards.exe
+  Poker Table and cards.vcxproj -> D:\Visual Studio\Poker Table and cards\Release\Poker Table and cards.pdb (Full PDB)
